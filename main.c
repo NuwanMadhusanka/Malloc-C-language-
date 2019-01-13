@@ -35,15 +35,6 @@ int main()
     display(saman);
     myfree(saman);
 
-    /*int* a=(int*)mymalloc(100);
-    display(a);
-
-    int a[10];
-    int* s=(int*)mymalloc(12);
-    *(s)=12;
-    printf("%d",*s);*/
-
-
 
 
 
