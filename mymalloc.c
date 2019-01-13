@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<sys/types.h>
+#include<string.h>
 
 typedef unsigned int size_t;
 
